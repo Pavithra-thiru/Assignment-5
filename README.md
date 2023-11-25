@@ -25,14 +25,17 @@ Install and set up a MySQL server.
 
 2. Additional Libraries:
 Ensure you have other necessary libraries installed as well.
+
 **Running the Tests
 Breakdown of Tests**
+
 1. Sorting and Importing Dataset
 
     Purpose: Import the YouTube dataset for further analysis.
     Procedure:
         Use the Pandas library to read the dataset into a DataFrame.
         Address encoding problems if any.
+   
 ![image](https://github.com/Pavithra-thiru/Assignment-5/assets/151902813/572882b9-9a29-4e28-a1cf-29eff65830b8)
 
 •	The dataset is read into a Pandas DataFrame using the pd.read_csv() method.
@@ -85,9 +88,9 @@ Pavithra Thirukumaran
 
 **License**
 
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-**
-Acknowledgement**
+This project is licensed under the MIT - see the LICENSE.md file for details.
+
+**Acknowledgement**
 
 References
 
